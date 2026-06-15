@@ -7,9 +7,9 @@ Estudiante de 3º de Ingeniería Informática apasionado por la Ciberseguridad y
 - 🤖 Desplegando modelos de **IA en local** (Ollama) integrados con automatizaciones.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Dev / IA:** Python, Git, Docker, LangChain / Ollama.
-- **Sysadmin / Home Lab:** Portainer, Linux, Gitea, Redes locales.
 - **Ciberseguridad:** Nmap, Wireshark, Metasploit, Burp Suite (Estudiando eJPT).
+- **Sysadmin / Home Lab:** Portainer, Linux, Gitea, Redes locales.
+- **Dev / IA:** Python, Git, Docker, LangChain / Ollama.
 
 ## 🚀 Proyectos Destacados
 * 🧠 **[Local IA Automations](AQUÍ_IRÁ_EL_LINK):** Automatizaciones utilizando modelos LLM en local.
