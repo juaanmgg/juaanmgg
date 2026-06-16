@@ -116,6 +116,23 @@ A comprehensive **web application** for personalized nutrition plans and trainin
 
 ---
 
+### 3. 🛡️ **TryHackMe Writeups & Pentesting Notes**
+**Cybersecurity • Penetration Testing • Linux/Windows • Privilege Escalation**
+
+A structured documentation of practical machine compromises (RootMe, Simple CTF, Blue) demonstrating professional penetration testing methodologies for the eJPTv2 certification.
+
+**Key Highlights:**
+- 🔍 **Reconnaissance:** Service enumeration (Nmap, Gobuster, Enum4linux)
+- 💥 **Exploitation:** SQLi (Time-based), MS17-010 (EternalBlue), File Upload Bypasses
+- 🔑 **Post-Exploitation:** Process migration, Hash dumping, TTY stabilization
+- 📈 **Privilege Escalation:** SUID exploitation, Sudo misconfigurations (GTFOBins)
+
+**Technologies:** Metasploit, Hashcat, John The Ripper, Python, Bash
+
+👉 [Explore Repository](https://github.com/juaanmgg/cybersecurity-notes)
+
+---
+
 ## 📊 Quick Stats
 
 <div align="center">
