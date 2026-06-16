@@ -6,8 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-mergarju05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mergarju05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@juaanmgg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juaanmgg)
 
-**3rd Year Software Engineering Student** | **University of Valladolid (UVa)**  
-Passionate about **Cybersecurity** | **Cloud Architecture** | **AI/ML Integration**
+**3rd Year Software Engineering Student** | **University of Valladolid (UVa)** Passionate about **Cybersecurity** | **Cloud Architecture** | **AI/ML Integration**
 
 </div>
 
@@ -161,3 +160,37 @@ growth = {
     "infrastructure": ["Docker containerization", "Gitea git management", "home lab setup"],
     "cloud": ["CI/CD pipelines", "Infrastructure as Code", "cloud deployments"]
 }
+```
+
+---
+
+## 💬 Philosophy
+
+> *"Clean code is not about getting it right the first time. It's about leaving it better than you found it."*
+
+I believe in:
+- ✨ **Writing clean, maintainable code** that others (and future me) can understand
+- 🧪 **Testing thoroughly** — confidence in code comes from tests, not faith
+- 📚 **Learning continuously** — the tech stack evolves, so do I
+- 🤝 **Collaborating openly** — great solutions come from diverse perspectives
+- 🎯 **Delivering value** — code exists to solve problems, not impress hackers
+
+---
+
+## 📬 Let's Connect!
+
+I'm always interested in discussing **software architecture**, **cybersecurity challenges**, **AI integration**, or just geeking out over clean code patterns.
+
+- 💼 **LinkedIn:** [Juan Merino Garrido](https://www.linkedin.com/in/juan-merino-garrido-14415a185)
+- 📧 **Email:** [mergarju05@gmail.com](mailto:mergarju05@gmail.com)
+- 🐙 **GitHub:** [@juaanmgg](https://github.com/juaanmgg)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Juan Merino Garrido**
+
+*Last updated: June 2026* | Actively looking for internship/junior positions combining software engineering + cybersecurity
+
+</div>
