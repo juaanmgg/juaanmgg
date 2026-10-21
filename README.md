@@ -17,7 +17,7 @@ Focusing on **Red Teaming** | **Vulnerability Assessment** | **Active Directory*
 
 I am a Software Engineering student transitioning into a dedicated **Cybersecurity** role. My background in software architecture and full-stack development gives me a unique advantage: **I know how systems are built, which allows me to understand exactly how they break.**
 
-Currently preparing for the **eJPTv2** certification, I spend my time auditing enterprise environments (Active Directory, Windows Server, Linux), researching vulnerabilities, and developing secure infrastructure in my personal Home Lab.
+I spend my time auditing enterprise environments (Active Directory, Windows Server, Linux), researching vulnerabilities, and developing secure infrastructure in my personal Home Lab.
 
 ### 🛡️ Core Competencies:
 - **Active Directory Exploitation:** Kerberos enumeration, AS-REP Roasting, DCSync attacks, and lateral movement (Pass-the-Hash).
@@ -71,18 +71,17 @@ A comprehensive and structured documentation of practical machine compromises de
 
 ---
 
-## 🔬 Current Focus (Summer 2026)
+## 🔬 Current Focus (2026/2027)
 
 | **Goal** | **Status** | **Details** |
 |----------|-----------|-----------|
-| 🛡️ **eJPTv2 Certification** | 📚 Preparing | Junior Penetration Tester — Hands-on ethical hacking & network security. |
 | 🤖 **AI-Assisted Security** | 🔨 Learning | Deploying local LLMs (Ollama) to automate vulnerability analysis workflows. |
 
 ---
 
 ## 🎓 Education & Certification
 
-- 🎓 **Software Engineering Degree** — University of Valladolid (3rd Year)
+- 🎓 **Software Engineering Degree** — University of Valladolid (4rd Year)
   - Focus on secure coding, system architecture, and network fundamentals.
 - 📚 **eJPTv2 Preparation** — Hands-on ethical hacking & penetration testing.
 
