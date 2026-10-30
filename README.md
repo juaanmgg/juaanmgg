@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-mergarju05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mergarju05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@juaanmgg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juaanmgg)
 
-**3rd Year Software Engineering Student** | **University of Valladolid (UVa)**
+**4th Year Software Engineering Student** | **University of Valladolid (UVa)**
 Focusing on **Red Teaming** | **Vulnerability Assessment** | **Active Directory**
 
 </div>
