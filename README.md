@@ -27,22 +27,17 @@ I spend my time auditing enterprise environments (Active Directory, Windows Serv
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 
-### 🛡️ **TryHackMe Writeups & Pentesting Notes**
-**Cybersecurity • Penetration Testing • Active Directory • Privilege Escalation**
+### 1. 🛡️ [Multi-Agent AI SOC Framework](https://github.com/juaanmgg/AI-SOC-Log-Analyzer)
+**Blue Team • LangGraph • Cloud Security • Azure Honeypot**
+An advanced IPS/IDS deployed as a real-world honeypot in Azure. It uses a Multi-Agent architecture (LangGraph) and LLMs (Groq/Llama 3) to analyze SSH logs in real-time, detect brute-force attacks, and execute automated firewall blocking (SOAR).
+* **Key Skills:** Cloud Deployment (Azure), AI Orchestration, OS Firewall Integration, SQLite Threat Intel.
 
-A comprehensive and structured documentation of practical machine compromises demonstrating professional penetration testing methodologies for the eJPTv2 certification. 
-
-**Key Audits Performed:**
-*   **Attacktive Directory (Windows):** Domain enumeration (`Kerbrute`), AS-REP Roasting (`Impacket`), NTDS database extraction (DCSync), and Pass-the-Hash (`Evil-WinRM`).
-*   **Relevant (Windows Server):** SMB-to-Web architecture flaws, ASPX malicious payloads, and Token Impersonation (`PrintSpoofer`).
-*   **Agent Sudo (Linux):** HTTP Header spoofing, Steganography analysis (`binwalk`, `steghide`), and Sudo security bypass (CVE-2019-14287).
-*   **Ice & Blaster (Windows):** Process migration (`spoolsv.exe`), in-memory credential extraction (`Kiwi/Mimikatz`), and CVE-2019-1388 (UAC Bypass).
-
-**Arsenal:** Impacket, Evil-WinRM, Metasploit, Nmap, Burp Suite, Hashcat, John The Ripper, PrintSpoofer.
-
-👉 **[Explore Full Repository & Methodologies](https://github.com/juaanmgg/cybersecurity-notes)**
+### 2. 📓 [TryHackMe Writeups & Pentesting Notes](https://github.com/juaanmgg/cybersecurity-notes)
+**Penetration Testing • Active Directory • Privilege Escalation**
+Structured documentation of practical machine compromises demonstrating professional penetration testing methodologies for the eJPTv2 certification. 
+* **Key Audits:** AS-REP Roasting, DCSync, Token Impersonation, Web Header Spoofing.
 
 ---
 
@@ -71,11 +66,12 @@ A comprehensive and structured documentation of practical machine compromises de
 
 ---
 
-## 🔬 Current Focus (2026/2027)
+## 🔬 Current Focus (2026)
 
 | **Goal** | **Status** | **Details** |
 |----------|-----------|-----------|
-| 🤖 **AI-Assisted Security** | 🔨 Learning | Deploying local LLMs (Ollama) to automate vulnerability analysis workflows. |
+| ☁️ **Cloud Security Auditing** | 🔨 Building | Developing a DevSecOps automated scanner for AWS/Azure environments. |
+| 🤖 **AI-Assisted Security** | ✅ Deployed | Successfully deployed a Multi-Agent SOC Honeypot in Azure. |
 
 ---
 
