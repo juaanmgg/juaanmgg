@@ -29,10 +29,11 @@ I spend my time auditing enterprise environments (Active Directory, Windows Serv
 
 ## 🏆 Featured Projects
 
-### 1. 🛡️ [Multi-Agent AI SOC Framework](https://github.com/juaanmgg/AI-SOC-Log-Analyzer)
-**Blue Team • LangGraph • Cloud Security • Azure Honeypot**
-An advanced IPS/IDS deployed as a real-world honeypot in Azure. It uses a Multi-Agent architecture (LangGraph) and LLMs (Groq/Llama 3) to analyze SSH logs in real-time, detect brute-force attacks, and execute automated firewall blocking (SOAR).
-* **Key Skills:** Cloud Deployment (Azure), AI Orchestration, OS Firewall Integration, SQLite Threat Intel.
+### 1. 🛡️ [AI SOC Log Analyzer](https://github.com/juaanmgg/AI-SOC-Log-Analyzer)
+**Blue Team • Python • Groq • Azure Honeypot**
+A sequential SOC pipeline deployed as an Azure honeypot. It monitors syslog/SSH-style events, groups suspicious activity by IP, filters by threshold, and uses Groq with `openai/gpt-oss-20b` to classify threats before applying automated firewall blocks.
+* **Key Skills:** LLM-assisted detection, Windows/Linux firewall integration (`netsh`/`ufw`), SQLite threat intelligence, whitelist validation, and automatic rollback after a configurable TTL.
+* **Engineering:** Docker support, GitHub Actions quality gate with Ruff and Pytest, and mocked tests that run without API keys or modifying a real firewall.
 
 ### 2. 📓 [TryHackMe Writeups & Pentesting Notes](https://github.com/juaanmgg/cybersecurity-notes)
 **Penetration Testing • Active Directory • Privilege Escalation**
@@ -71,13 +72,13 @@ Structured documentation of practical machine compromises demonstrating professi
 | **Goal** | **Status** | **Details** |
 |----------|-----------|-----------|
 | ☁️ **Cloud Security Auditing** | 🔨 Building | Developing a DevSecOps automated scanner for AWS/Azure environments. |
-| 🤖 **AI-Assisted Security** | ✅ Deployed | Successfully deployed a Multi-Agent SOC Honeypot in Azure. |
+| 🤖 **AI-Assisted Security** | ✅ Deployed | Running a sequential LLM-powered SOC pipeline with automated firewall response and TTL rollback. |
 
 ---
 
 ## 🎓 Education & Certification
 
-- 🎓 **Software Engineering Degree** — University of Valladolid (4rd Year)
+- 🎓 **Software Engineering Degree** — University of Valladolid (4th Year)
   - Focus on secure coding, system architecture, and network fundamentals.
 - 📚 **eJPTv2 Preparation** — Hands-on ethical hacking & penetration testing.
 
